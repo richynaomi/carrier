@@ -24,12 +24,12 @@ img{
 }
 :root {
     scroll-behavior: inherit;
-    --primary-color: #4caf4c;
-    --secondary-color: #4caf4c;
-    --main-dark-color: #666;
-    --bg-light-theme: #fef9f5;
+    --primary-color: #6c63ff;
+    --secondary-color: #6c63ff;
+    --main-dark-color: #6c63ff;
+    --bg-light-theme: #fff;
     --bg-white: #FFF;
-    --bg-light-gray: #fafafa;
+    --bg-light-gray: #6c63ff;
     --shadow-primary: 0px 6px 10px 0px rgba(254, 135, 4, 0.2);
     --shadow-secondary: 0px 6px 10px 0px rgba(254, 135, 4, 0.2);
     --secondary-rgba: rgba( 35, 33, 53, 0.8)
@@ -3283,7 +3283,7 @@ footer .social-icons a{
     .header-three .navbar.fixed {
         box-shadow: var(--shadow-primary);
         /* background: var(--primary-color);*/
-        background-color: #ffffff;
+        background-color: #6c63ff;
         padding-bottom: 0.7rem;
     }
     .header-sixth .navbar.fixed{

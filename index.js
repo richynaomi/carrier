@@ -24,7 +24,7 @@ app.use(expressLayouts);
 
 // Simulated user for demonstration purposes
 const hardcodedUser = {
-    email: "expresdivlsavice@gmail.com",
+    email: "expressss@gmail.com",
     passwordHash: "Required1234"
 };
 

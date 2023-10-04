@@ -42,7 +42,7 @@
 
 }
 
-@media (max-width: 991px) {
+@ {
     #body-content { overflow-x: hidden; }
     .home-welcome{ margin-top: -40px; }
     .request-btn a#search_home{ margin-left: auto; }
